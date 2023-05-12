@@ -1,0 +1,23 @@
+body
+{
+    background: url("bg.jpg");
+    background-size: cover;
+}
+
+canvas
+{
+border: 2px solid black;
+}
+
+#dl
+{
+    float:right;
+}
+
+h1
+{
+    color: rgb(38, 0, 255);
+    top: 0;
+    left: 70%;
+
+}
